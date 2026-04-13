@@ -1,12 +1,10 @@
 <div align="center">
  
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi)
-![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-Working-F2C811?style=for-the-badge&logo=powerbi)
+![Status](https://img.shields.io/badge/Status-Working-success?style=for-the-badge)
  
-*Interactive analytics dashboard analyzing BMW sales performance, regional insights, and EV adoption trends (2018-2023)*
- 
-[View Live Dashboard](#) • [View SQL Code](sql/bmw_sales_analysis.sql) • [Read Findings](docs/findings.md)
+[View SQL Code](sql/bmw_sales_analysis.sql) 
  
 </div>
  
