@@ -1,8 +1,8 @@
 <div align="center">
  
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![Power BI](https://img.shields.io/badge/Power_BI-Working-F2C811?style=for-the-badge&logo=powerbi)
-![Status](https://img.shields.io/badge/Status-Working-success?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-Complete-F2C811?style=for-the-badge&logo=powerbi)
+![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
  
 [View SQL Code](bmw.session.sql) 
  
@@ -114,14 +114,24 @@ Overall, this suggests that EV adoption is influenced more by energy costs and m
 - Model portfolio segmentation
 - Market share calculations
 
+- ### Power BI Features
+ 
+ **Interactive Dashboards**
+- 5 comprehensive pages
+- Cross-filtering and drill-through
+ **Advanced Visualizations**
+- Waterfall charts (revenue decomposition)
+- Scatter plots (correlation analysis)
+
 ---
+
 
 ## Insights & Recommendations
  
 ### Strategic Recommendations
 
 1. Accelerate Investment in Electric Vehicles (EVs)
-With EV adoption rising from ~2% to ~20% and strong correlation with fuel prices (r ≈ 0.95), BMW should continue expanding its EV lineup (e.g., iX, i4) and invest in battery technology and charging infrastructure partnerships to capture growing demand.
+With EV adoption rising from ~2% to ~20% and a strong correlation with fuel prices (r ≈ 0.95), BMW should continue expanding its EV lineup (e.g., iX, i4) and invest in battery technology and charging infrastructure partnerships to capture growing demand.
 
 2. Leverage Premium Models to Maximize Profitability
 High-end models like the X7 generate the most revenue due to premium pricing. BMW should continue prioritizing luxury segments while maintaining brand positioning, as these models significantly boost margins despite lower relative volumes.
