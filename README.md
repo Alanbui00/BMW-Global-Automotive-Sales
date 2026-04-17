@@ -3,8 +3,10 @@
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 ![Power BI](https://img.shields.io/badge/Power_BI-Complete-F2C811?style=for-the-badge&logo=powerbi)
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
- 
-[View SQL Code](bmw.session.sql) 
+
+Interactive analytics dashboard analyzing BMW sales performance, regional insights, and EV adoption trends (2018-2023)
+
+[View Live Dashboard](bmw.pbix) [View SQL Code](bmw.session.sql) 
  
 </div>
  
@@ -125,7 +127,25 @@ Overall, this suggests that EV adoption is influenced more by energy costs and m
 
 ---
 
+## Dashboards
+ 
+### Power BI Dashboard
+ 
+<div align="center">
+![Power BI Executive Summary](dashboards/powerbi/screenshots/executive_summary.png)
+*Executive Summary Dashboard - Key Performance Indicators*
+ 
+![Power BI Revenue Analysis]()
+*Revenue Analysis Dashboard - Growth Drivers*
+ 
+</div>
+**Features:**
+- Interactive filters (Year, Region, Model)
+- Drill-through to detailed views
 
+Download .pbix File](bmw.pbix)
+ 
+---
 ## Insights & Recommendations
  
 ### Strategic Recommendations
