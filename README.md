@@ -6,7 +6,7 @@
 
 Interactive analytics dashboard analyzing BMW sales performance, regional insights, and EV adoption trends (2018-2023)
 
-[View Live Dashboard](bmw.pbix) [View SQL Code](bmw.session.sql) 
+[Download Dashboards](bmw.pbix) [View SQL Code](bmw.session.sql) 
  
 </div>
  
@@ -133,18 +133,28 @@ Overall, this suggests that EV adoption is influenced more by energy costs and m
  
 <div align="center">
 
-![Power BI Executive Summary](.png)
+![Power BI Executive Summary](Executive_Summary.png)
 *Executive Summary Dashboard - Key Performance Indicators*
  
-![Power BI Revenue Analysis](.png)
+![Power BI Revenue Analysis](Revenue_&_Growth_Analysis.png)
 *Revenue Analysis Dashboard - Growth Drivers*
+
+![Power BI Regional Performance](Regional_Performance.png)
+*Regional Performance Dashboard - Key Performance Indicators*
  
+![Power BI Model Analysis](Model_Performance.png)
+*Model Performance Dashboard - Growth Drivers*
+
+![Power BI EV adoptions & Trends](EV_Adoption_&_Macro_Trends.png)
+*EV adoptions & Trends Dashboard - Key Performance Indicators*
+
 </div>
+
 **Features:**
 - Interactive filters (Year, Region, Model)
 - Drill-through to detailed views
 
-Download .pbix File](bmw.pbix)
+[Download .pbix File](bmw.pbix)
  
 ---
 ## Insights & Recommendations
