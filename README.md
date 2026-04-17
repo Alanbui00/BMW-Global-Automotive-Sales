@@ -132,10 +132,11 @@ Overall, this suggests that EV adoption is influenced more by energy costs and m
 ### Power BI Dashboard
  
 <div align="center">
-![Power BI Executive Summary](dashboards/powerbi/screenshots/executive_summary.png)
+
+![Power BI Executive Summary](.png)
 *Executive Summary Dashboard - Key Performance Indicators*
  
-![Power BI Revenue Analysis]()
+![Power BI Revenue Analysis](.png)
 *Revenue Analysis Dashboard - Growth Drivers*
  
 </div>
