@@ -56,7 +56,6 @@ Overall, this suggests that EV adoption is influenced more by energy costs and m
  
 ### Tools
 - **Excel/CSV** - Data export and manipulation
-- **Git/GitHub** - Version control and collaboration
 
 ---
 
@@ -65,7 +64,7 @@ Overall, this suggests that EV adoption is influenced more by energy costs and m
  
 ### Prerequisites
 - PostgreSQL 12+ installed
-- Power BI Desktop (optional, for dashboards)
+- Power BI Desktop (dashboards)
  
 ### Installation
  
